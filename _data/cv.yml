@@ -30,7 +30,12 @@ career:
    summary: Full stack web development for an international social networking application, with a focus on linux systems administration, MySQL database management and optimization, release management, quality control, monitoring, and DevOps.
    accomplishments:
     - accomplishment: Implemented nagios monitoring to assist with operations and uptime
-
+ - position: Lead Quality Assurance Analyst
+   company: Sony Computer Entertainment America
+   location: Foster City
+   dates: 2007 -2009
+   summary: Create, coordinate, and execute software test plans for 3rd party titles on the Playstation 3 and Playstation Portable systems. Specialized in network functionality and technical requirements testing for online titles.
+   
 technicalSkills:
   list:
     - tr: "Quality assurance"
