@@ -14,6 +14,4 @@ Her cohort was already awake and down the front stairs of the bus, grabbing his 
 
 "Ah fuck mate where's me pluggas?"
 
-Mary was in the midst of inventorying the detritus left at her feet, and grabbed at the pile of flip flops at her feet. Sorting them like a five card poker hand, she grabbed the pair with the bright orange thongs in her right hand and offered them up. There were three more sandals in her left hand, but none of them matched. 
-
-Not recognizing any of them, she chucked them back on to the floor in front of her for the next traveller with only one shoe. She could feel the shoes she had brought in her light canvas satchel, so she threw it over her shoulder and dismounted from the bus.
+Mary was in the midst of inventorying the detritus left at her feet, and grabbed at the pile of flip flops. Sorting them like a five card poker hand, she grabbed the pair with the bright orange thongs in her right hand and offered them up. There were three more sandals in her left hand, but none of them matched. She chucked the flippies back on the floor for the next traveller with only one shoe.
