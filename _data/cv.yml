@@ -38,9 +38,14 @@ career:
    
 technicalSkills:
   list:
+    - tr: "PHP"
+    - tr: "MySQL"
+    - tr: "Linux administration"
+    - tr: "Javascript"
+    - tr: "High Availability"
+    - tr: "DevOps"
     - tr: "Quality assurance"
     - tr: "Feature Development"
-    - tr: "Customer Service"
   backend:
    - name: PHP
      level: 90
