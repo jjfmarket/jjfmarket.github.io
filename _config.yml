@@ -24,7 +24,7 @@ github_username:  jjfmarket
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: devlopr
 plugins:
   - jekyll-feed
 
