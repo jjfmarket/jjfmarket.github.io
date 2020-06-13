@@ -1,3 +1,7 @@
+---
+layout: post
+title: I can move my neck again
+---
 I had some knots in the scalene muscles in my neck that were bunching up my rib into my clavicle and making it hard
  to turn my head over my left shoulder. I guess I probably didn't move my left arm very much for a couple years. A lot of playing computer games.
 
